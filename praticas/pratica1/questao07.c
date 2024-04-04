@@ -23,11 +23,6 @@ int main (){
   double altura = seno* distancia;
   printf ("A altura alcançada pelo avião foi: %.2f\n",altura);
   
-  
-  
- 
-  
-
 
   return 0;
 }
