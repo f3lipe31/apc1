@@ -5,7 +5,7 @@ Faça um programa que C que calcule os impostos incluídos no preço de um produ
   #include <stdio.h>
 
   int main(){
-    float preco_inicial=100.0f;
+    float preco_inicial=0.0f;
     const float ICMS = 0.17f;
     const float COFINS = 0.076f;
     const float PIS_PASEP = 0.0165f;
